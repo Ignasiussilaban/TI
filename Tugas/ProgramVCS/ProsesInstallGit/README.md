@@ -26,5 +26,7 @@ Silahkan buka website resminya Git di <https://git-scm.com>. Kemudian unduh Git 
 ## Git-2.33.1-64-bit.exe
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/Image/FileGit.png?raw=true)
 
+##Langkah-langkah Install Git di Windows
 
-
+Baiklah, mari kita mulai proses instalasinya. Dengan mengklik 2x file instaler Git yang sudah diunduh, atau Klik kanan pada file dan pilih run as administrator.
+![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/Image/klikkanan.png?raw=true)
