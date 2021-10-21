@@ -19,5 +19,5 @@ Tapi dalam proses instalasi, ada pilihan yang harus diperhatikan agar perintah g
 ## Download Git
 Silahkan buka website resminya Git di <https://git-scm.com>. Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 
-![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/git-scm.com.png?raw=true)
+![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/Image/git-scm.com.png?raw=true)
 
