@@ -32,6 +32,11 @@ Baiklah, mari kita mulai proses instalasinya. Dengan mengklik 2x file instaler G
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/Image/klikkanan.png?raw=true)
 
+# 3. Konfigurasi Awal yang Harus Dilakukan
+Ada beberapa konfigurasi yang harus dupersiapakan sebelum mulai menggunakan Git, seperti name dan email.
+
+Silahkan lakukan konfigurasi dengan perintah berikut ini.
+
 Maka akan muncul informasi licensi git, pilih **next** untuk melanjutkan proses selanjutnya.
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/Image/licensi.png?raw=true)
@@ -51,3 +56,19 @@ Setelah selesai, kita bisa langsung klik **Finish**.
 Selamat, Git sudah terinstal di Windows dan sudah terhubung langsung ke **CMD**. Untuk mencobanya, silahkan buka **CMD** atau **PowerShell**, kemudian ketik perintah ```git --version```.
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/Image/gitCMD.png?raw=true)
+
+# 3. Konfigurasi Awal yang Harus Dilakukan
+Ada beberapa konfigurasi yang harus dupersiapakan sebelum mulai menggunakan Git, seperti **name** dan **email**.
+
+Silahkan lakukan konfigurasi dengan perintah berikut ini.
+
+```git config --global user.name "Tior3turn"```
+```git config --global user.email "ignaslabantio@gmail.com"```
+
+Kemudian periksa konfigurasinya dengan perintah:
+
+```git config --list```
+
+Apabila berhasil tampil seperti gambar berikut ini, berarti konfigurasi berhasil.
+
+![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/Image/gitconfig.png?raw=true)
