@@ -23,6 +23,7 @@ Silahkan buka website resminya Git di <https://git-scm.com>. Kemudian unduh Git 
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/Image/Downloadinggit.png?raw=true)
 
+## Git-2.33.1-64-bit.exe
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/Image/FileGit.png?raw=true)
 
 
