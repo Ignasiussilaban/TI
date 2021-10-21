@@ -53,16 +53,19 @@ Setelah selesai, kita bisa langsung klik **Finish**.
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/Image/finish.png?raw=true)
 
-Selamat, Git sudah terinstal di Windows dan sudah terhubung langsung ke **CMD**. Untuk mencobanya, silahkan buka **CMD** atau **PowerShell**, kemudian ketik perintah ```git --version```.
+Selamat, Git sudah terinstal di Windows dan sudah terhubung langsung ke **CMD**. Untuk mencobanya, silahkan buka **CMD** atau **PowerShell**,
+kemudian ketik perintah ```git --version```.
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/Image/gitCMD.png?raw=true)
 
 # 3. Konfigurasi Awal yang Harus Dilakukan
+
 Ada beberapa konfigurasi yang harus dupersiapakan sebelum mulai menggunakan Git, seperti **name** dan **email**.
 
 Silahkan lakukan konfigurasi dengan perintah berikut ini.
 
 ```git config --global user.name "Tior3turn"```
+
 ```git config --global user.email "ignaslabantio@gmail.com"```
 
 Kemudian periksa konfigurasinya dengan perintah:
