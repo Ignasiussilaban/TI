@@ -31,3 +31,23 @@ Silahkan buka website resminya Git di <https://git-scm.com>. Kemudian unduh Git 
 Baiklah, mari kita mulai proses instalasinya. Dengan mengklik 2x file instaler Git yang sudah diunduh, atau Klik kanan pada file dan pilih run as administrator.
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/Image/klikkanan.png?raw=true)
+
+Maka akan muncul informasi licensi git, pilih next untuk melanjutkan proses selanjutnya.
+
+![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/Image/licensi.png?raw=true)
+
+Selanjutnya menentukan lokasi instalasi. Biarkan saja apa adanya, kemudian terus klik Next > sampai pada tahap install.
+
+![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/Image/install.png?raw=true)
+
+Tunggu proses instalasi sampai selesai,
+
+![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/Image/installing.png?raw=true)
+
+Setelah selesai, kita bisa langsung klik Finish.
+
+![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/Image/finish.png?raw=true)
+
+Selamat, Git sudah terinstal di Windows dan sudah terhubung langsung ke **CMD**. Untuk mencobanya, silahkan buka **CMD** atau **PowerShell**, kemudian ketik perintah ```git --version```.
+
+![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/ProgramVCS/Image/gitCMD.png?raw=true)
