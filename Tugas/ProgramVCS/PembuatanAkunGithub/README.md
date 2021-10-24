@@ -1,4 +1,4 @@
-# Cara Pembuatan Akun github 
+# A.Cara Pembuatan Akun github 
 
-## Membuat akun pada layanan github
-    untuk menggunakan git, dibutuhkan sebuah layanan. Layanan yang tersedia sangat banyak namun saya menggunakan '''github'''
+## 1.Membuat akun pada layanan github
+    untuk menggunakan git, dibutuhkan sebuah layanan. Layanan yang tersedia sangat banyak namun saya menggunakan **github**
