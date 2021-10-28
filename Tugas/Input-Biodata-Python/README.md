@@ -20,6 +20,11 @@
 
 *Setelah kita sudah di dalam* **folder main.py** *selanjutnya mari kita membuat* **variable** *dan* **membuat input pada variable** *yang ingin kita kerjakan.*
 
+Contoh:
+
+```nama = input("Nama Lengkap  : ")```
+
+*Seperti pada gambar di bawah ini.*
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Input-Biodata-Python/Image/sc5.png?raw=true)
 
