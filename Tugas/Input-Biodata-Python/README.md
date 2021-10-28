@@ -28,6 +28,8 @@ Contoh:
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Input-Biodata-Python/Image/sc5.png?raw=true)
 
+*Ketika kita sudah selesai membuat* **Variable** *dan sudah* **menginput pada variable** *maka selanjunya adalah menjalankan program kita 
+
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Input-Biodata-Python/Image/sc6.png?raw=true)
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Input-Biodata-Python/Image/sc7.png?raw=true)
