@@ -10,9 +10,11 @@
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Input-Biodata-Python/Image/Sc2.png?raw=true)
 
+*Tunggu proses loading environment Selesai.*
+
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Input-Biodata-Python/Image/sc3.png?raw=true)
 
+*Setelah proses loading environment selesai , maka akan terbentuk struktur* **Folder** *dan* **main.py** *dalam project*
+
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Input-Biodata-Python/Image/sc4.png?raw=true)
-
-
 
