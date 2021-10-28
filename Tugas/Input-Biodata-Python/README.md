@@ -28,7 +28,8 @@ Contoh:
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Input-Biodata-Python/Image/sc5.png?raw=true)
 
-*Ketika kita sudah selesai membuat* **Variable** *dan sudah* **menginput pada variable** *maka selanjunya adalah menjalankan program kita 
+*Ketika kita sudah selesai membuat* **Variable** *dan sudah* **menginput pada variable** *maka selanjunya adalah menjalankan program kita dengan cara:*
+```Klik Run selanjutnya Klik Run 'main'```  *Maka akan muncul tampilan sebagai berikut*
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Input-Biodata-Python/Image/sc8.png?raw=true)
 
