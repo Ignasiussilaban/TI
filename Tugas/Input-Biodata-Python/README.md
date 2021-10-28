@@ -29,11 +29,15 @@ Contoh:
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Input-Biodata-Python/Image/sc5.png?raw=true)
 
 *Ketika kita sudah selesai membuat* **Variable** *dan sudah* **menginput pada variable** *maka selanjunya adalah menjalankan program kita dengan cara:*
-```Klik Run selanjutnya Klik Run 'main'```  *Maka akan muncul tampilan sebagai berikut*
+```Klik Run selanjutnya Klik Run 'main'```  *Maka akan muncul tampilan sebagai berikut.*
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Input-Biodata-Python/Image/sc8.png?raw=true)
 
+*Setelah tampilan muncul seperti gambar yang diatas,selanjutnya marikita isi Biodata kita sesuai dengan data yang di inginkan.* 
+
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Input-Biodata-Python/Image/sc6.png?raw=true)
+
+*Sesudah Kita selesai mengisi biodata kita, maka akan muncul seperti gambar di bawah ini.*
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Input-Biodata-Python/Image/sc7.png?raw=true)
 
