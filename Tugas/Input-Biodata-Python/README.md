@@ -18,6 +18,9 @@
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Input-Biodata-Python/Image/sc4.png?raw=true)
 
+*Setelah kita sudah di dalam* **folder main.py** *selanjutnya mari kita membuat* **variable** *dan* **membuat input pada variable** *yang ingin kita kerjakan.*
+
+
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Input-Biodata-Python/Image/sc5.png?raw=true)
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Input-Biodata-Python/Image/sc6.png?raw=true)
