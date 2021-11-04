@@ -1,7 +1,12 @@
+# Menghitung Keliling Lingkaran
 
+### Gambar Flowchart Menghitung Keliling Lingkaran
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Menghitung-Luas-dan-Keliling-Lingkaran/Image/scfk1.png?raw=true)
 
+### Proses Menghitung Keliling Lingkaran Menggunakan PyCharm
 
+1.Buka Aplikasi **PyCharm**, 
+  Klik **File** Pilih **New Project** isi Dengan Nama Project.
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Menghitung-Luas-dan-Keliling-Lingkaran/Image/sc1.png?raw=true)
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Menghitung-Luas-dan-Keliling-Lingkaran/Image/sck1.png?raw=true)
