@@ -34,7 +34,7 @@
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Menghitung-Luas-dan-Keliling-Lingkaran/Image/sck4.png?raw=true)
 
-
+6. Di Sini Saya Memasukkan Jari-Jari= 15, dan Hasilnya Seperti Gambar di Bawah Ini.
 
 ![https://git-scm.com](https://github.com/Tior3turn/TI/blob/main/Tugas/Menghitung-Luas-dan-Keliling-Lingkaran/Image/sck5.png?raw=true)
 
